@@ -55,5 +55,5 @@
 
 <p align="center">
   <a href="https://github.com/zuanvfx02"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/zuanvfx01"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
